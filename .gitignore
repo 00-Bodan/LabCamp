@@ -1,0 +1,6 @@
+.agents/
+.aws/
+.codex/
+.env
+.env.*
+!.env.example
